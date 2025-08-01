@@ -1,5 +1,7 @@
 # 👋 Assalamu 'Alaikum, I'm Shahriar Shahadat
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sshahadat1294)
+
 🎓 A medical student with a passion for technology, automation, and meaningful software. (Currently, studying MBBS in Mymensingh Medical College)
 
 💻 Though my background is in medicine, I’ve always been driven by curiosity to learn coding and build tools that help others — especially in the Islamic, productivity, and automation space.
@@ -67,3 +69,4 @@ If you're building something impactful or need help bringing automation to your 
 ---
 
 **Let’s build tools that matter.**
+**Barakallahu feekum.**
