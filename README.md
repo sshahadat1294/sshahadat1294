@@ -16,12 +16,34 @@
 
 ---
 
-## 🌟 Highlights
+## 🕌 Current Projects
 
-- ✨ Created a full Islamic auto-posting suite for Quran, Hadith, Q&A, and recitation video
-- 💬 Integrated both **Facebook Graph API** and **Telegram Bot API**
-- 📹 Automated **video generation** using Python and MoviePy with waveform visualizer
-- 🧠 Self-taught with real-world projects — no bootcamp, just learning by building
+- 🤖 **Islamic Auto Post Bot**  
+  Automates Quran, Hadith, QA, and Quran Recitation video posts on Facebook and Telegram.
+
+- 📤 **Quran Recitation Video Generator**  
+  Generates visually styled recitation clips with audio, text overlay, and waveform effect using `moviepy`.
+
+- ⏱️ **Hourly Islamic Content Scheduler**  
+  Posts Ayah → Hadith → QA → Recitation in hourly cycles — fully hands-off.
+
+---
+
+## 🧠 Skills & Tools
+
+- **Languages**: Python, HTML, Markdown
+- **Libraries**: `moviepy`, `Pillow`, `requests`, `schedule`, `beautifulsoup4`, `facebook-sdk`
+- **Platforms**: Facebook Graph API, Telegram Bot API
+- **Other**: Git, GitHub Pages, Automation Scripts, JSON Handling
+
+---
+
+## 🌟 What I'm Interested In
+
+- Automating Islamic content delivery
+- Task scheduling bots for pages or workflows
+- Simple, fast tools that help real users
+- Collaborating on open-source, meaningful projects
 
 ---
 
@@ -39,7 +61,7 @@ If you're building something impactful or need help bringing automation to your 
 
 ## 📫 Contact
 
-- 💬 Facebook: [Shahriar Shahadat](https://www.facebook.com/shahriar.shahdat)) 
+- 💬 Facebook: [Shahriar Shahadat] (https://www.facebook.com/shahriar.shahdat)) 
 - 📧 Email: shahriar1294.shahadat@gmail.com *(or message me via GitHub)*
 
 ---
